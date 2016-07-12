@@ -13,6 +13,7 @@ gem 'jbuilder', '~> 2.5'
 
 group :test do
   gem 'rspec-rails'
+  gem 'rspec-collection_matchers'
   gem 'capybara'
 end
 
