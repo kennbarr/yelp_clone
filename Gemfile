@@ -15,6 +15,7 @@ gem 'omniauth-facebook'
 group :test do
   gem 'rspec-rails'
   gem 'rspec-collection_matchers'
+  gem 'shoulda-matchers', '~> 3.1'
   gem 'capybara'
 end
 
